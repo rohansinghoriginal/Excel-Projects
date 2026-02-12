@@ -1,0 +1,9 @@
+# Temporary files
+*.tmp
+*.log
+
+# Mac system files
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
